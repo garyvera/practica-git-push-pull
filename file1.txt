@@ -1,6 +1,2 @@
 prmer archivo creado
-archivo llamado file1
-ffffffffff
 
-
-esta es la segunf fila
